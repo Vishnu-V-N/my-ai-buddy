@@ -1,6 +1,6 @@
 # my-ai-buddy
 
-**Hey Hero** — your personal AI Life Operating System.
+**Hey Hero** - your personal AI Life Operating System.
 
 Personal AI chat assistant for daily life, health, work, and personalized news.
 
