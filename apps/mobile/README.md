@@ -9,11 +9,11 @@
    cp .env.example .env
    flutter run
    ```
-3. `flutter create .` generates `android/`, `ios/`, etc. without overwriting `lib/` and `pubspec.yaml` if you confirm carefully — prefer running it once on a fresh clone.
+3. `flutter create .` generates `android/`, `ios/`, etc. without overwriting `lib/` and `pubspec.yaml` if you confirm carefully - prefer running it once on a fresh clone.
 
 ## Current screens
-- **Today** — mock morning briefing dashboard
-- **Hero** — local mock chat (workout / day / AI news replies)
+- **Today** - mock morning briefing dashboard
+- **Hero** - local mock chat (workout / day / AI news replies)
 
 ## Next
 - Wire Supabase auth
