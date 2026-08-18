@@ -10,7 +10,7 @@ Personal AI chat assistant for daily life, health, work, and personalized news.
 
 ## What is Hey Hero?
 
-A single place to manage your day, track health, stay informed on topics you care about, and talk to an AI assistant naturally — starting with *"Hey Hero"*.
+A single place to manage your day, track health, stay informed on topics you care about, and talk to an AI assistant naturally - starting with *"Hey Hero"*.
 
 ### Example
 
@@ -72,7 +72,7 @@ my-ai-buddy/
 
 ## Roadmap
 
-### v1 — MVP
+### v1 - MVP
 AI Chat · Calendar · Reminders · Habits · Workout generator · Apple Health · Daily summary
 
 ### v2
